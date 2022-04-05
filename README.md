@@ -19,3 +19,10 @@
 #### Problem
 <p>Following sketch displays periodicaly temperature and pressure measuerd by BMP280 sensor.</p>
 
+### Sketch3
+
+#### Circuit diagram
+![image](https://user-images.githubusercontent.com/81929485/161784844-9963acaf-6f32-4ce4-aeb3-7793c625bb36.png)
+
+#### Problem
+<p>This sketch displays measured tension using clocked or switch-generated interruption. The mode of working is switched using switch 1.</p>
