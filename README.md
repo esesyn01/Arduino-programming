@@ -26,3 +26,11 @@
 
 #### Problem
 <p>This sketch displays measured tension using clocked or switch-generated interruption. The mode of working is switched using switch 1.</p>
+
+### Sketch4
+
+#### Circuit diagram
+![image](https://user-images.githubusercontent.com/81929485/163117950-2bdb9d4d-aeb9-4209-93d4-134646d1cdeb.png)
+
+#### Problem
+<p>This sketch displays on the display whether it detected motion or not, and on the next line it displays the distance measuerd by distance sensor</p>
