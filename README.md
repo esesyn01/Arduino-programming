@@ -34,3 +34,11 @@
 
 #### Problem
 <p>This sketch displays on the display whether it detected motion or not, and on the next line it displays the distance measuerd by distance sensor</p>
+
+### Sketch5
+
+#### Circuit diagram
+![image](https://user-images.githubusercontent.com/81929485/164208556-93eb1a42-afbb-49ee-bb5f-8f4f5e9dc1d1.png)
+
+#### Problem
+<p>This sketch diplays acceleration in x, y and z axis measured by accelerometer. It displays also calculated points.</p>
