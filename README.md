@@ -42,3 +42,11 @@
 
 #### Problem
 <p>This sketch diplays acceleration in x, y and z axis measured by accelerometer. It displays also calculated points.</p>
+
+### Sketch6
+
+#### Circuit diagram
+![image](https://user-images.githubusercontent.com/81929485/165456631-6c0f929b-36cc-4aa2-bc15-7f2726bf6dbd.png)
+
+#### Problem
+<p>This sketch scanns cards, lights up a different led and generates a different sound using buzzer depending on the card</p>
